@@ -25,7 +25,7 @@ This script uses OCRopus (Or ocropy? [There seems to be no agreement on the name
 
 ## Training data
 
-The [`models`](models) directory contains models trianed on manually transcribed text segments from our City Directory collections. See the [See also](see-also) section on how to train OCRopus.
+The [`models`](models) directory contains models trianed on manually transcribed text segments from our City Directory collections. See the [See also](#see-also) section on how to train OCRopus.
 
 ## Installation
 
