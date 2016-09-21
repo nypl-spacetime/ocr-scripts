@@ -25,7 +25,7 @@ This script uses OCRopus (Or ocropy? [There seems to be no agreement on the name
 
 ## Training data
 
-The [`models`](models) directory contains models trianed on manually transcribed text segments from our City Directory collections. See the [See also](#see-also) section on how to train OCRopus.
+The [`models`](models) directory contains models trained on manually transcribed text segments from our City Directory collections. See the [See also](#see-also) section on how to train OCRopus.
 
 ## Installation
 
@@ -61,7 +61,7 @@ Afterwards, you can run the OCRopus tools (e.g. `ocropus-nlbin`, `ocropus-gpages
 
 ## See also
 
-[Dan Vanderkam's blog](http://www.danvk.org/blog.html) (the creator of [OldNYC](https://www.oldnyc.org/)) has a few posts dedicated to using and training Ocropus:
+[Dan Vanderkam's blog](http://www.danvk.org/blog.html) (the creator of [OldNYC](https://www.oldnyc.org/)) has a few posts dedicated to using and training OCRopus:
 
 - [Finding blocks of text in an image using Python, OpenCV and numpy](http://www.danvk.org/2015/01/07/finding-blocks-of-text-in-an-image-using-python-opencv-and-numpy.html)
 - [Extracting text from an image using Ocropus](http://www.danvk.org/2015/01/09/extracting-text-from-an-image-using-ocropus.html)
