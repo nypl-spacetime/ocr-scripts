@@ -34,6 +34,7 @@ See https://github.com/tmbdev/ocropy#installing.
 On my MacBook with HomeBrew installed, this worked:
 
     brew install hdf5
+    brew install gcc
 
     pip install --upgrade pip
     pip install pylab
