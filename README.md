@@ -46,8 +46,8 @@ On my MacBook with HomeBrew installed, this worked:
     source ocropus_venv/bin/activate
     pip install -r requirements_1.txt
     pip install -r requirements_2.txt
-
-    python setup.py install
+    
+To make the tools work with `clang` on OSX, do this: https://github.com/tmbdev/ocropy/blob/master/README_OSX.md
 
 Afterwards, you can run the OCRopus tools (e.g. `ocropus-nlbin`, `ocropus-gpageseg`, `ocropus-rpred`, `ocropus-hocr`) from this virtual environment.
 
