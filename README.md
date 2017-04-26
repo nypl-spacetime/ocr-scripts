@@ -36,7 +36,7 @@ On my MacBook with HomeBrew installed, this worked:
     brew install hdf5
 
     pip install --upgrade pip
-    pip install pylab
+    pip install matplotlib
     pip install lxml
 
     git clone https://github.com/tmbdev/ocropy.git
